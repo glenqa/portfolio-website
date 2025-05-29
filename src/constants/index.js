@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     year: "May 2025 - Present",
     role: "Product Management Intern",
     company: "Horizon Labs",
-    description: `As a Product Management Intern, I worked closely with cross-functional teams to drive product development from ideation to execution. I conducted user research and competitor analysis to inform product decisions, contributed to sprint planning, and collaborated with developers and designers to deliver features aligned with business goals. I also helped create wireframes and used data to prioritize product improvements.`,
+    description: `Worked closely with cross-functional teams to drive product development from ideation to execution, contributed to sprint planning, and collaborated with developers and designers to deliver features aligned with business goals. I also helped create wireframes and used data to prioritize product improvements.`,
     technologies: ["Product Lifecycle", "Market/User Research", "Prototyping", "Collaboration", "Agile Development"],
   },
   {
