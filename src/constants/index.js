@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     year: "May 2025 - Present",
     role: "Product Management Intern",
     company: "Horizon Labs",
-    description: `Worked closely with cross-functional teams to drive product development from ideation to execution, contributed to sprint planning, and collaborated with developers and designers to deliver features aligned with business goals. I also helped create wireframes and used data to prioritize product improvements.`,
+    description: `As a Product Management Intern, I supported the development of Hethēna, a next-generation medical system designed to streamline healthcare workflows and enhance patient experience. Working in a startup environment with Agile and Scrum methodologies, I conducted market and user research, defined product requirements, prioritized features, and collaborated closely with design and engineering teams to deliver an intuitive, scalable solution.`,
     technologies: ["Product Lifecycle", "Market/User Research", "Prototyping", "Collaboration", "Agile Development"],
   },
   {
@@ -64,11 +64,19 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "CLIMBRR - Climbing Social App 🧗🏻‍♀️ (In Progress)" ,
+    image: concert, 
+    description:
+      "Clmbrr is a social networking app for climbers, offering a central hub to connect with friends, share routes from various gyms, exchange beta, log progress, and build connections. ",
+    technologies: ["React", "Appwrite", "Tailwind CSS", "React Query"],
+  },
+
+  {
     title: "TixTacts - Ticketing Bot 🎟️ " ,
     image: concert, 
     description:
-      "Developed a functional ticketing assistant that bypasses Ticketmaster and Livenation queues to secure concert tickets with near guaranteed chances. Successfully used during live sales to cart tickets and distribute sharable bypass links via a Telegram bot. Currently automating the process for greater efficiency and growing user base. ",
-    technologies: ["Python", "Pyppeteer ", "Telegram Bot API", "Dynamic Queue Monitoring and Prioritisation"],
+      "Developed a functional ticketing assistant that bypasses Ticketmaster and Livenation queues to secure concert tickets, complete with automated form filling and 2FA verification. Successfully used during live sales to outpace competitors, cart tickets and distribute sharable bypass links via a Telegram bot.",
+    technologies: ["Python", "Pyppeteer ", "Telegram Bot API", "Web Scraping", "Automation"],
   },
 
   {
