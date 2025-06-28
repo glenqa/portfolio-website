@@ -8,7 +8,7 @@ const Contact = () => {
 
       <div className="flex justify-center mt-4">
         <a
-          href="/resume.pdf"
+          href="/Glenda_Tay_Resume_Updated.pdf"
           target="_blank"
           rel="noopener noreferrer"
           download
