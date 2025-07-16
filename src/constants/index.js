@@ -65,14 +65,6 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "CLIMBRR - Climbing Social App 🧗🏻‍♀️ (In Progress)" ,
-    image: climb, 
-    description:
-      "Clmbrr is a social networking app for climbers, offering a central hub to connect with friends, share routes from various gyms, exchange beta, log progress, and build connections. ",
-    technologies: ["React", "Appwrite", "Tailwind CSS", "React Query"],
-  },
-
-  {
     title: "TixTacts - Ticketing Bot 🎟️ " ,
     image: concert, 
     description:
