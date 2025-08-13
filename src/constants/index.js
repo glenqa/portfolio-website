@@ -56,7 +56,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jul 2024 - Present",
-    role: "Front Desk Staff",
+    role: "Duty Officer",
     company: "BFF Climb",
     description: `Served as the first point of contact for customers — handling check-ins, equipment rentals, memberships, and inquiries. Assisted with day-to-day operations, and addressed customer concerns promptly. `,
     technologies: ["Customer Service", "Communication", "Conflict Resolution"],
