@@ -5,7 +5,7 @@ import furhome from "../assets/projects/furhome.png";
 import covid  from "../assets/projects/covid.jpeg";
 import amazon from  "../assets/projects/amazon.jpeg";
 import dashboard from "../assets/projects/dash.jpg"
-import climb from "../assets/projects/clmbr.png";
+import text from "../assets/projects/textpic.png"
 
 //images 
 import image1 from "../assets/images/image1.jpg";
@@ -64,6 +64,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Text Analysis of Chat History using Supervised & Unsupervised Machine Learning " ,
+    image: text, 
+    description:
+      "Developed NLP pipeline applying supervised (Logistic Regression, Naive Bayes, SVM) and unsupervised (LDA topic modeling, clustering) methods for sentiment classification and topic discovery, achieving actionable insights from large-scale text data.",
+    technologies: ["Python", "Logistic Regression", "SVM", "LDA", "Clustering", "NLP", "Feature Engineering", "Model Evaluation"],
+
+  },
+
   {
     title: "TixTacts - Ticketing Bot 🎟️ " ,
     image: concert, 
