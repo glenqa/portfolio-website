@@ -48,14 +48,14 @@ export const EXPERIENCES = [
     technologies: ["Automation", "Python", "Data Visualisation", "Scripting"]
   },
   {
-    year: "May 2025 - Present",
+    year: "May 2025 - Aug 2025",
     role: "Product Management Intern",
     company: "Horizon Labs",
     description: `As a Product Management Intern, I supported the development of Hethēna, a next-generation medical system designed to streamline healthcare workflows and enhance patient experience. Working in a startup environment with Agile and Scrum methodologies, I conducted market and user research, defined product requirements, prioritized features, and collaborated closely with design and engineering teams to deliver an intuitive, scalable solution.`,
     technologies: ["Product Lifecycle", "Market/User Research", "Prototyping", "Collaboration", "Agile Development"],
   },
   {
-    year: "Jan 2025 - Apr 2025",
+    year: "Jan 2025 - Dec 2025",
     role: "Undergraduate Teaching Assistant",
     company: "NUS School of Computing",
     description: `Supported the instruction for the courses: IS2218 - Digital Platforms for Businesses & ST1131 - Introduction to Statistics and Statistical Computing. Assisted with conducting tutorial sessions, grading assignments, and holding weekly consultation sessions for students.`,
