@@ -56,9 +56,9 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2025 - Apr 2025",
-    role: "Undergraduate Teaching Assistant - IS2218 Digital Platforms for Businesses",
+    role: "Undergraduate Teaching Assistant",
     company: "NUS School of Computing",
-    description: `Supported the instruction of the course IS2218 by grading and providing feedback on assignments. Helped students grasp concepts by holding weekly consultation sessions to clarify doubts.`,
+    description: `Supported the instruction for the courses: IS2218 - Digital Platforms for Businesses & ST1131 - Introduction to Statistics and Statistical Computing. Assisted with conducting tutorial sessions, grading assignments, and holding weekly consultation sessions for students.`,
     technologies: ["Grading", "Teaching", "Leadership", "Team Coordination"],
   },
   {
