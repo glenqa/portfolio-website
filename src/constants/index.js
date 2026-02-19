@@ -5,7 +5,7 @@ import furhome from "../assets/projects/furhome.png";
 import covid  from "../assets/projects/covid.jpeg";
 import amazon from  "../assets/projects/amazon.jpeg";
 import dashboard from "../assets/projects/dash.jpg"
-import text from "../assets/projects/textpic.png"
+
 
 //images 
 import image1 from "../assets/images/image1.jpg";
@@ -17,7 +17,7 @@ import image7 from "../assets/images/image7.jpeg";
 
 
 
-export const HERO_CONTENT = `Hi! I'm Glenda — a second year Business Analytics student at the National University of Singapore with a second major in Statistics, and a specialisation in Machine Learning.
+export const HERO_CONTENT = `Hi! I'm Glenda — a penultimate Business Analytics student at the National University of Singapore with a second major in Statistics, and a specialisation in Machine Learning.
 Driven by curiosity and a passion for data, I enjoy leveraging technology to uncover insights and develop meaningful, impactful solutions. `;
 
 
@@ -36,10 +36,17 @@ export const SLIDESHOW_IMAGES = [
 
 ];
 
-export const HOBBIES_TEXT = "During my free time, I enjoy top rope climbing and bouldering, jamming on my guitars, as well as collecting vinyl records. I also love to travel and explore new places whenever I can. Outside of the climbing gym, you’ll probably find me indulging in mala tang or an acai bowl 🙊 "
+export const HOBBIES_TEXT = "During my free time, I enjoy top rope climbing and bouldering, jamming on my guitars, collecting vinyl records, as well as spending money on jellycats. I also love to travel and explore new places whenever I can. "
 
 
 export const EXPERIENCES = [
+  {
+    year: "Jan 2026 - Present",
+    role: "Data Analyst Intern",
+    company: "Synapxe",
+    description: `Set up analysis environments, developed Python scripts for enhancing automation workflowes and assessed data quality. Assisted with performing analysis on diverse datasets and developed tracking dashboards and reports for budgeting and finance purposes.`,
+    technologies: ["Automation", "Python", "Data Visualisation", "Scripting"]
+  },
   {
     year: "May 2025 - Present",
     role: "Product Management Intern",
@@ -64,14 +71,6 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "Text Analysis of Chat History using Supervised & Unsupervised Machine Learning " ,
-    image: text, 
-    description:
-      "Developed NLP pipeline applying supervised (Logistic Regression, Naive Bayes, SVM) and unsupervised (LDA topic modeling, clustering) methods for sentiment classification and topic discovery, achieving actionable insights from large-scale text data.",
-    technologies: ["Python", "Logistic Regression", "SVM", "LDA", "Clustering", "NLP", "Feature Engineering", "Model Evaluation"],
-
-  },
 
   {
     title: "TixTacts - Ticketing Bot 🎟️ " ,
